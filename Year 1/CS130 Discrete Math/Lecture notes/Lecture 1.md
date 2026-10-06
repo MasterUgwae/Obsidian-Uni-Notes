@@ -1,4 +1,3 @@
-
 ---
 tags:
   - CS130
@@ -26,7 +25,7 @@ tags:
 		- [Reading list](https://rl.talis.com/3/warwick/lists/cd002d1e-f256-4615-b4a0-732a44e562b8.html)
 
 ## Questions
-- Module forum on moodle [[Year 1/CS130 Discrete Math/Lecture notes/Lecture 1/Overview|Lecture 1]]
+- Module forum on [moodle](https://moodle.warwick.ac.uk/my/)
 - Office hours
 	- Dmitry
 		- Tue 14:30 - 1700
@@ -43,30 +42,56 @@ Video recordings are released indefinately
 # Introduction to Sets, Sequences & Functions
 
 ## Notable sets
-- $\mathbb{N}=\{0,1,2,3,\dots\}$
-- $\mathbb{Z}=\{0,1,-1,2,-2,\dots\}$
-- $\mathbb{Q}=\{0,1,2,\frac{3}{2},-\frac{3}{2},\dots\}$
-- $\mathbb{R}$
-- $\mathbb{C}$
-
+- Natural numbers: $\mathbb{N}=\{0,1,2,3,\dots\}$
+> This includes 0
+- Integers: $\mathbb{Z}=\{0,1,-1,2,-2,\dots\}$
+- Rationals: $\mathbb{Q}=\{0,1,2,\frac{3}{2},-\frac{3}{2},\dots\}$
+- Real Numbers: $\mathbb{R}$
+- Complex Number: $\mathbb{C}$
+Letters like $\mathbb{N}$ are called blackboard bold
 ## Notation
 
+### Membership
+$$4 \in \mathbb{N}$$
+### Exclusion
+$$4 \notin \mathbb{N}$$
 
-## Proposition 1
+## Proposition
 
-Sets A and B are equal if they contain exactly the same objects.
+Sets $A$ and $B$ are **equal** if they contain exactly the same objects.
 
-Noation A=B
+This means that if for every possible object, it is either contained in both or neither. Then, there is no way to distinguish the sets.
+
+So there is nothing more to a set other than the objects within
+
+Noation: $A=B$
 
 $$
-\{a,b\}=\{b,a\}=\{b,a,a\} != \{a\} = \{a,a\}
+\{a,b\}=\{b,a\}=\{b,a,a\} \neq \{a\} = \{a,a\}
 $$
-## Example
+> There is no ordering, and no multiplicity
+### Example
+Given:
 $$
 S=\{\mathbb{N},\mathbb{Z},\mathbb{Q},\mathbb{R}\}
-\newline
+$$
+Then:
+$$
 |S|=4
 $$
-$$|\null|=0$$
-$|A|=n$
+## Cardinality
+The empty set is represented by $\emptyset=\{\}$ 
 
+Modulus operator looks like || and is two pipe characters
+$$
+\begin{gather}
+\forall A=\{a,...\} \\
+|A|=n
+\end{gather}
+$$
+> Modulus operator returns the size of the set
+> The cardinality is the size of the set
+> The size of a set is equal to the number of elements within
+
+$$|\emptyset|=0$$
+> This is the only set with cardinality 0

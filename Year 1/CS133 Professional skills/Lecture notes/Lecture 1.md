@@ -1,21 +1,28 @@
 ---
 tags:
   - CS133
+  - intro
 ---
-l# Introduciton and Studying at University
+# Introduciton and Studying at University
 ## Classifiation of professional skills
 1. Computers and operating systems - utilisation and application (term 1)
 2. Wider social context - legal, ethical and professional isuues (term 2)
 3. Communication skills - presentations and technical writing (terms 1 and 2)
 ## Modules Aims
-> Fill in from module website
+ >From the module website
+ 
+The three components of the module address, respectively:
+
+- developing skills in summarising, quoting, paraphrasing, critical analysis, grammar, referencing and oral presentation, and teaching writing as a process approach to composing academic papers;
+- giving students a basic understanding of operating systems concepts together with a working knowledge of computing systems and associated tools and applications that will subsequently be used;
+- introducing students to the concept of professional ethics and behaviour, the place of computers in society and the legal aspects of computing, and the importance of personal development planning.
 
 ## Term 1 Timetable
 2 Lectures per week
 
 Labs sessions (weeks 2-10)
 Attendance is monitored
-If you must miss
+If you must miss then either contact Mike or go through normal channels
 
 Lab sessions are held in the terminal rooms CS0.1-CS0.6
 
@@ -23,7 +30,7 @@ Lab sessions are held in the terminal rooms CS0.1-CS0.6
 ## Term 1 Lectures
 
 Communication lectures
-1. Creating a [[PDP]](Glossary) (personal development plan)
+1. Creating a [[Glossary#PDP|PDP]] (personal development plan)
 2. Time management
 3. Careers
 	1. Internships
@@ -37,9 +44,37 @@ Communication lectures
 2. You much attend one cs133 lab each week
 
 ## Module Assessment
-The term 1 
-
-Term 2 classs test is to assess legal, social and ethical material
+- Term 1
+	- Lab marking points
+	- Worth 20%
+- Term 2
+	- Classs test
+		- To assess legal, social and ethical material
+		- Worth 15%
+	- Essay
+		- Worth 30%
+		- Can be about anything to do with CS
+	- Presentation
+		- Group work
+		- Worth 15%
+		- Given in the seminar
+		- 20 minutes long
+	- Personal Development Plan
+		- Worth 20%
+		- Due start of term 3
+		- Part 1
+			- 500 work max statement
+			- worth 15% of the PDP
+			- describes your intrests and career goals
+		- Part 2
+			- 1000 word max statement
+			- Worth 15% of the PDP
+			- Self-reflective analysis
+			- Setting out activities that you will undertake to complete your career goals.
+		- Part 3
+			- Setting 5 [[Glossary#SMART|SMART]] Personal Goals
+			- Worth 70%
+			- Indicate what documentation you will use to prove that you have completed the goals are complete during the final submission
 
 ## Reccomended reading
 
@@ -72,8 +107,7 @@ No Moodle in this module
 ## Homework
 - make sure you are comfortable with logging into DCS machines
 - Revise the welcom week material
-- Understand the Linux docs for CS118
-> Make this a link to cs118
+- Understand the Linux docs for [[Year 1/CS118 Programming for computer Scientists/Overview|CS118]]
 
 
 ## Lecture Slides
