@@ -4,18 +4,18 @@ tags:
   - intro
 ---
 # Overview
-| wk  | Lecture 1                                                                                           | Lecture 2 | Lecture 3 | Seminar    |
-| --- | --------------------------------------------------------------------------------------------------- | --------- | --------- | ---------- |
-| 1   | [[Year 1/CS130 Discrete Math/Lecture notes/Lecture 1\|Introduction to Sets, Sequences & Functions]] |           |           | NO SEMINAR |
-| 2   |                                                                                                     |           |           |            |
-| 3   |                                                                                                     |           |           |            |
-| 4   |                                                                                                     |           |           |            |
-| 5   |                                                                                                     |           |           |            |
-| 6   |                                                                                                     |           |           |            |
-| 7   |                                                                                                     |           |           |            |
-| 8   |                                                                                                     |           |           |            |
-| 9   |                                                                                                     |           |           |            |
-| 10  |                                                                                                     |           |           |            |
+| wk  | Lecture 1                                                                                             | Lecture 2                                                                                             | Lecture 3                                                                                             | Seminar    |
+| --- | ----------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ---------- |
+| 1   | [[Year 1/CS130 Discrete Math/Lecture notes/Lecture 1\|Introduction to Sets, Sequences & Functions 1]] | [[Year 1/CS130 Discrete Math/Lecture notes/Lecture 2\|Introduction to Sets, Sequences & Functions 2]] | [[Year 1/CS130 Discrete Math/Lecture notes/Lecture 3\|Introduction to Sets, Sequences & Functions 3]] | NO SEMINAR |
+| 2   |                                                                                                       |                                                                                                       |                                                                                                       |            |
+| 3   |                                                                                                       |                                                                                                       |                                                                                                       |            |
+| 4   |                                                                                                       |                                                                                                       |                                                                                                       |            |
+| 5   |                                                                                                       |                                                                                                       |                                                                                                       |            |
+| 6   |                                                                                                       |                                                                                                       |                                                                                                       |            |
+| 7   |                                                                                                       |                                                                                                       |                                                                                                       |            |
+| 8   |                                                                                                       |                                                                                                       |                                                                                                       |            |
+| 9   |                                                                                                       |                                                                                                       |                                                                                                       |            |
+| 10  |                                                                                                       |                                                                                                       |                                                                                                       |            |
 - Lectures
 	- You can find lecture notes on web page
 - Seminars
