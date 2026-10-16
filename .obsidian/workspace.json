@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year 1/CS140 Computer Security/Lecture notes/Lecture 3.md",
+                "file": "Year 1/CS130 Discrete Math/Seminar notes/Seminar 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 3"
+              "title": "Seminar 1"
             }
           }
         ],
@@ -228,18 +228,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e3fd933724bca6b2",
+  "active": "afab7fbef9a2adfc",
   "lastOpenFiles": [
-    "Year 1/CS140 Computer Security/Lecture notes/Lecture 2.md",
+    "Year 1/CS130 Discrete Math/Lecture notes/Lecture 2.md",
+    "Year 1/CS130 Discrete Math/Seminar notes/Seminar 1.md",
     "Year 1/CS140 Computer Security/Lecture notes/Lecture 3.md",
+    "Year 1/CS140 Computer Security/Lecture notes/Lecture 4.md",
+    "Year 1/CS130 Discrete Math/Lecture notes/Lecture 5.md",
+    "Year 1/CS130 Discrete Math/Lecture notes/Lecture 6.md",
+    "Year 1/CS118 Programming for computer Scientists/Lecture notes/Lecture 4.md",
+    "Year 1/CS140 Computer Security/Lecture notes/Lecture 2.md",
     "Year 1/CS132 Computer organisation & Architecture/Lecture notes/Lecture 6.md",
     "Year 1/CS132 Computer organisation & Architecture/Overview.md",
     "Year 1/CS132 Computer organisation & Architecture/Lecture notes/Lecture 5.md",
     "Year 1/CS118 Programming for computer Scientists/Lecture notes/Lecture 3.md",
     "Year 1/CS118 Programming for computer Scientists/Lecture notes/Lecture 2.md",
-    "Year 1/CS130 Discrete Math/Lecture notes/Lecture 6.md",
     "Year 1/CS130 Discrete Math/Lecture notes/Lecture 7.md",
-    "Year 1/CS130 Discrete Math/Lecture notes/Lecture 5.md",
     "Year 1/CS130 Discrete Math/Lecture notes/Lecture 4.md",
     "Year 1/CS133 Professional skills/Lecture notes/Lecture 4.md",
     "Year 1/CS133 Professional skills/Lecture notes/Lecture 3.md",
@@ -247,7 +251,6 @@
     "Untitled.base",
     "Year 1/CS132 Computer organisation & Architecture/Lecture notes/Lecture 4.md",
     "Year 1/CS132 Computer organisation & Architecture/Lecture notes/Lecture 3.md",
-    "Year 1/CS130 Discrete Math/Lecture notes/Lecture 2.md",
     "Year 1/CS133 Professional skills/Lecture notes/Lecture 2.md",
     "Year 1/CS140 Computer Security/Lecture notes/Lecture 1.md",
     "Year 1/CS118 Programming for computer Scientists/Lecture notes/Lecture 1.md",
@@ -255,9 +258,6 @@
     "Year 1/CS140 Computer Security/Overview.md",
     "Year 1/CS133 Professional skills/Slides/Lecture 1 - Slides.md",
     "Microsoft PowerPoint - Week1-2 Copy - week1-2.pdf",
-    "Year 1/CS132 Computer organisation & Architecture/Lecture notes/Lecture 2.md",
-    "Year 1/CS130 Discrete Math/Overview.md",
-    "Year 1/CS130 Discrete Math/Lecture notes/Lecture 1.md",
     "Gossary",
     "Glossary",
     "Slides/introduction.pdf",

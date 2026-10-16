@@ -37,15 +37,16 @@ The set A is finite, otherwise it is infinite
 
 ## Exercises
 
-1. Find a simpler description of the set $$\{3a+7b:a,b\in\mathbb{Z}\}$$
+1. Find a simpler description of the set $$A=\{3a+7b:a,b\in\mathbb{Z}\}$$
+	1. $A=\mathbb{Z}$
 2. Which of these sets are equal 
-$$\begin{gather}
-A=\emptyset \\
-B = \{\emptyset\} \\
-C = \{\{\emptyset\}\}
-\end{gather}
+$$\begin{align}
+A&=\emptyset \\
+B &= \{\emptyset\} \\
+C &= \{\{\emptyset\}\}
+\end{align}
 $$
-
+	1. None
 
 ## Sequences
 

@@ -74,4 +74,36 @@ Based on one way functions
 ### Modular exponentiation
 
 - $y^x\space mod \space n$ for different values of x repeats with order n
-- If all numbers from 0 to (n-1) 
+- If all numbers from 1 to (n-1) we call it a primative root
+
+$3^7mod 7=3^6mod7*3mod7$
+This will only apply when the modulo is a prime
+
+- if y is the primative root mod p, then
+	- successive powers of y mod p, for x=1 to p-1 generate all numbers from 1 to p-1 mod p
+
+	k=y^x mod p is a one-way function, if
+		y is the primative root mod p
+		p is an enourmous number, eg 512 bit number
+
+## RSA 
+
+### Notation
+- KP_x is the user private key
+- KU_x is the public key
+- Plaintext - unencrypted message
+- Ciphertext - encrytped message
+### Encryption
+- Bbo chooses 2 large secret primes p and q and calculates n=p*q
+- Public key consists of two components: n is the modulus of the public key
+- It also needs an exponent
+	- Conditions for selecting e
+	- $\phi$(n)=(p-1)*(q-1)
+		- e is coprime to $\phi(n)$
+		- (p-1)\*(q-1)= p*q-p-q = how many integers are coprime to n
+	- $1<e<\phi(n)$
+Example:
+- p=17, q=11, n=187
+
+
+$$\{x^3|x\in\mathbb{Z}\wedge -4\le x\le4\}$$
